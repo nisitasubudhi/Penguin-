@@ -10,11 +10,10 @@ numpy
 pandas
 python-dateutil
 pytz
-scikit-learn==0.24.1
+scikit-learn
 scipy
 six
 threadpoolctl
 Werkzeug
 zipp
 gunicorn
-
